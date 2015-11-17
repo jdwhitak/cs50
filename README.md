@@ -1,1 +1,1 @@
-# cs50
+edX CS50 coursework.
